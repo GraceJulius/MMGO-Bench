@@ -1,13 +1,10 @@
 """
-MMRB v2.0 - Vision-Language Model Evaluation Pipeline
-======================================================
+MMGO-Bench v1.0 - Vision-Language Model Evaluation Pipeline
+==============================================================
 Evaluates VLMs on shortest-path reasoning over graph images. The main
 track sends an image AND a text description together on every query;
 --modality text_only drops the image and sends only the description +
-question, as a perception-vs-reasoning ablation (v1.0 had its own,
-separately-implemented version of this split, archived under
-../archive/mmrb_v1/ — this is a fresh v2.0 implementation, not a reuse of
-that code).
+question, as a perception-vs-reasoning ablation.
 
 Three independent choices per run:
   --description  short|long   which graph_description text file accompanies
@@ -19,9 +16,9 @@ Three independent choices per run:
   --modality  multimodal|text_only  image+description (default) or
                                description-only, no image sent at all
 Both description and answer_format are kept on the same dataset
-(dataset/v2/mmrb_v2.0.json stores the full path AND its weight on every
-sample) so either can be run, or both compared, without regenerating
-anything.
+(dataset/v1/mmgo_bench_v1.0.json stores the full path AND its weight on
+every sample) so either can be run, or both compared, without
+regenerating anything.
 
 Most models run through Ollama (local weights or Ollama Cloud) — no
 external API keys required. Claude is also supported as a paid-API
@@ -48,9 +45,9 @@ from dotenv import load_dotenv
 
 # ─── Configuration ──────────────────────────────────────────────────────────
 DATASET_ROOT = Path("../dataset")
-DATASET_PATH = DATASET_ROOT / "v2/mmrb_v2.0.json"
-IMAGE_DIR = DATASET_ROOT / "v2/images"
-DESCRIPTION_DIR = DATASET_ROOT / "v2/graph_description"
+DATASET_PATH = DATASET_ROOT / "v1/mmgo_bench_v1.0.json"
+IMAGE_DIR = DATASET_ROOT / "v1/images"
+DESCRIPTION_DIR = DATASET_ROOT / "v1/graph_description"
 RESULTS_DIR = Path("results")
 
 # Model name -> Ollama tag. Local tags must already be pulled
@@ -347,7 +344,7 @@ def evaluate_model(model_name, caller_func, model_id, dataset, max_samples=None,
         model_name: display name for the model
         caller_func: call_ollama or call_claude
         model_id: Ollama tag or Anthropic model ID to call
-        dataset: list of MMRB samples
+        dataset: list of MMGO-Bench samples
         max_samples: optional limit for testing
         prompt_mode: "direct" | "zero_shot_cot" | "few_shot_cot" — recorded
             on each result so runs across conditions can be told apart later
@@ -373,7 +370,7 @@ def evaluate_model(model_name, caller_func, model_id, dataset, max_samples=None,
             raise RuntimeError(
                 f"Image directory not found: {resolved_image_dir} "
                 f"(cwd={Path.cwd()}). Check you're running from the "
-                f"evaluation/ directory and that dataset/v2/images/ hasn't "
+                f"evaluation/ directory and that dataset/v1/images/ hasn't "
                 f"been moved, unmounted, or is mid-sync (e.g. iCloud Desktop "
                 f"sync)."
             )
@@ -629,7 +626,7 @@ def save_results(results, model_name, prompt_mode, answer_format, label_style="u
                 "accuracy": round(cc / len(combo) * 100, 2) if combo else 0
             }
 
-    # Accuracy per label style (MMRB v2.0's uppercase-vs-numeric axis)
+    # Accuracy per label style (uppercase-vs-numeric axis)
     for label_style in label_styles_present:
         sr = [r for r in results if r.get("label_style") == label_style]
         sc = sum(1 for r in sr if r.get("is_correct", False))
@@ -652,7 +649,7 @@ def save_results(results, model_name, prompt_mode, answer_format, label_style="u
 def main():
     load_dotenv()
 
-    parser = argparse.ArgumentParser(description="MMRB v2.0 Evaluation Pipeline")
+    parser = argparse.ArgumentParser(description="MMGO-Bench v1.0 Evaluation Pipeline")
     parser.add_argument("--model", type=str, required=True,
                        help=f"Which model to evaluate. Ollama: {list(MODEL_TAGS.keys())}. "
                             f"Claude (paid API): {list(CLAUDE_MODELS.keys())}.")

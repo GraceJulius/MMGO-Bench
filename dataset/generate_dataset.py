@@ -1,14 +1,16 @@
 """
-MMRB v2.0 - Dataset Generator (controlled label-style + path-match design)
-===========================================================================
-Differences from v1.0 (dataset/generate_dataset.py), which is
-left untouched — all v2 output lives under dataset/v2/ so nothing here can
-overwrite the v1.0 dataset/images/results already used in completed
-Phase 0-2 analysis:
+MMGO-Bench v1.0 - Dataset Generator
+=====================================
+Generates the MMGO-Bench dataset: rendered graph images paired with a
+shortest-path query, for evaluating vision-language models on multi-modal
+graph optimization (weighted shortest-path) reasoning.
 
-  1. Layouts: shell dropped (nx.shell_layout with no `nlist` degenerates to
-     circular_layout — verified identical on 15 matrices, REJECTION_RISKS.md
-     §6b). Four layouts remain: spring, kamada_kawai, circular, random.
+Design notes:
+
+  1. Layouts: four node-link layouts — spring, kamada_kawai, circular,
+     random. (A fifth candidate, shell layout, was dropped: with no
+     explicit `nlist` it degenerates to circular_layout — verified
+     identical output on a sample of matrices.)
   2. Node labels are a controlled variable, not a random per-matrix choice.
      Every one of the 90 base graphs is rendered under BOTH "uppercase" and
      "numeric" labels (same underlying adjacency matrix, same query pair,
@@ -18,27 +20,27 @@ Phase 0-2 analysis:
      numeric comparison) stay visually organized.
   3. Each (matrix, layout, label_style) triple gets paired short/long text
      description files, meant to accompany the image in one query, not
-     replace it. "Long" lists only direct edge weights (NOT all-pairs shortest distances, 
+     replace it. "Long" lists only direct edge weights (NOT all-pairs shortest distances,
      which would leak the answer for the queried pair).
-  4. Ground truth is now the full shortest-path node sequence, not just its
-     total weight — grading (in evaluate_vlms.py) becomes exact-match on
-     the path itself.
+  4. Ground truth is the full shortest-path node sequence, not just its
+     total weight — grading (in evaluate_vlms.py) is exact-match on the
+     path itself (with tie-awareness: see metadata["all_paths"]).
   5. Layout quality gate: for "spring" and "random" (the two seeded,
      non-deterministic layouts), multiple seeds are tried and scored by
      edge_node_occlusion_score() — picks the seed where no unrelated node
-     sits almost exactly on top of another edge's line. Caught by manual
-     inspection on MAT_090_hard (2026-07-05): F and J were connected
-     directly, and G — not on that edge at all — happened to sit almost
-     exactly on the F-J line in the naive seed-67 layout, making the real
-     G-J edge and the F-J edge visually merge into what looked like a
-     single doubled/thicker line. A fixed global seed (v1.0's approach)
-     can't avoid this since it's a per-graph geometric coincidence.
+     sits almost exactly on top of another edge's line. This matters
+     concretely: on one hard-difficulty matrix, two nodes connected
+     directly happened to have a third, unconnected node sit almost
+     exactly on their connecting line under a naive fixed seed, making
+     that edge and an unrelated edge visually merge into what looked like
+     a single doubled/thicker line. A fixed global seed can't avoid this
+     since it's a per-graph geometric coincidence.
 
 Naming:
-  Matrix files:       v2/matrices/MAT_001_easy.json (shared, label-agnostic)
-  Image files:        v2/images/uppercase/MAT_001_easy_spring.png
-                       v2/images/numeric/MAT_001_easy_spring.png
-  Description files:  v2/graph_description/uppercase/MAT_001_easy_spring_short_description.txt
+  Matrix files:       v1/matrices/MAT_001_easy.json (shared, label-agnostic)
+  Image files:        v1/images/uppercase/MAT_001_easy_spring.png
+                       v1/images/numeric/MAT_001_easy_spring.png
+  Description files:  v1/graph_description/uppercase/MAT_001_easy_spring_short_description.txt
   Sample IDs:         MAT_001_easy_spring_uppercase
 
 Author: Grace Julius
@@ -59,15 +61,14 @@ from datetime import datetime
 
 # ─── Configuration ──────────────────────────────────────────────────────────
 RANDOM_SEED = 67
-OUT_ROOT = Path("v2")
+OUT_ROOT = Path("v1")
 IMAGE_DIR = OUT_ROOT / "images"
 MATRIX_DIR = OUT_ROOT / "matrices"
 DESCRIPTION_DIR = OUT_ROOT / "graph_description"
-OUTPUT_JSON = OUT_ROOT / "mmrb_v2.0.json"
-METADATA_FILE = OUT_ROOT / "mmrb_v2_metadata.json"
+OUTPUT_JSON = OUT_ROOT / "mmgo_bench_v1.0.json"
+METADATA_FILE = OUT_ROOT / "mmgo_bench_v1.0_metadata.json"
 QUALITY_REPORT_FILE = OUT_ROOT / "layout_quality_report.txt"
 
-# Same node-count buckets and generation parameters as v1.0
 DIFFICULTY_CONFIGS = {
     "easy": {"min_nodes": 4, "max_nodes": 6, "edge_prob": 0.5, "weight_range": (1, 5), "count": 30},
     "medium": {"min_nodes": 7, "max_nodes": 10, "edge_prob": 0.35, "weight_range": (1, 10), "count": 30},
@@ -86,9 +87,9 @@ LAYOUT_SEARCH_ATTEMPTS = 15     # kamada_kawai/circular: pricier per attempt
 OCCLUSION_T_RANGE = (0.15, 0.85)  # ignore near-endpoint "closeness" as unremarkable
 OCCLUSION_DIST_THRESHOLD = 0.06   # in layout's normalized coordinate space
 
-# Controlled axis, not a random per-matrix choice (v1.0's mistake). Every
-# matrix is rendered in both styles so "does label style affect accuracy"
-# is a same-graph comparison.
+# Controlled axis, not a random per-matrix choice. Every matrix is
+# rendered in both styles so "does label style affect accuracy" is a
+# same-graph comparison.
 LABEL_STYLES = ["uppercase", "numeric"]
 
 
@@ -222,11 +223,9 @@ def render_graph_image(G, filepath, layout_name, pos):
     n = G.number_of_nodes()
     m = G.number_of_edges()
 
-    # v1.0 used a fixed 8x6 canvas and fixed font_size=9 edge labels for
-    # every graph regardless of node/edge count — dense hard-difficulty
-    # graphs (11-15 nodes) packed enough edge-weight labels into that fixed
-    # area that they visibly overlapped. Scale canvas size and edge label
-    # font size with node/edge count so denser graphs get more room.
+    # Scale canvas size and edge-label font size with node/edge count —
+    # a fixed canvas/font size packs too many edge-weight labels into
+    # dense hard-difficulty graphs (11-15 nodes), causing visible overlap.
     if n <= 6:
         figsize = (8, 6)
     elif n <= 10:
@@ -314,7 +313,7 @@ def generate_dataset():
     flagged_count = 0
 
     print("=" * 60)
-    print("MMRB v2.0 — Dataset Generation")
+    print("MMGO-Bench v1.0 — Dataset Generation")
     print("=" * 60)
 
     for difficulty, config in DIFFICULTY_CONFIGS.items():
@@ -441,18 +440,18 @@ def generate_dataset():
             f.write("No residual edge-node occlusion detected in any matrix/layout combo.\n")
 
     metadata = {
-        "benchmark_name": "MMRB v2.0",
-        "full_name": "Multimodal Reasoning Benchmark",
-        "version": "2.0",
+        "benchmark_name": "MMGO-Bench v1.0",
+        "full_name": "MMGO-Bench: A Multi-Modal Graph Optimization Benchmark",
+        "version": "1.0",
         "created_date": datetime.now().isoformat(),
         "author": "Grace Julius",
         "supervisor": "Dr. Mina Samizadeh",
         "institution": "Lincoln University",
         "description": (
-            "Controlled redesign of MMRB: 4 layouts (shell dropped, degenerate "
-            "with circular per REJECTION_RISKS.md), node label style "
-            "(uppercase/numeric) as a controlled same-graph comparison rather "
-            "than a random per-matrix choice, paired short/long text "
+            "Shortest-path reasoning over rendered graph images: 4 node-link "
+            "layouts (spring, kamada-kawai, circular, random), node label "
+            "style (uppercase/numeric) as a controlled same-graph comparison "
+            "rather than a random per-matrix choice, paired short/long text "
             "descriptions to accompany (not replace) the image, full "
             "shortest-path exact-match as the grading metric instead of "
             "total-weight match, and a layout-occlusion seed search so no "
@@ -481,7 +480,7 @@ def generate_dataset():
         json.dump(metadata, f, indent=2)
 
     print(f"\n{'='*60}")
-    print("MMRB v2.0 Dataset Generation Complete")
+    print("MMGO-Bench v1.0 Dataset Generation Complete")
     print(f"{'='*60}")
     print(f"Base matrices: {metadata['total_base_matrices']} (skipped {skipped_no_path} with no valid path)")
     print(f"Total samples: {len(dataset)}")

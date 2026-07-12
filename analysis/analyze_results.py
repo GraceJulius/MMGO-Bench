@@ -6,13 +6,14 @@ result JSON (by_layout, by_difficulty, by_layout_and_difficulty) -- no
 re-scoring, no re-derivation of ground truth, just aggregation and the
 paired significance test over the saved per-sample is_correct values.
 
-Scope (documented, not arbitrary): label_style=uppercase (the only style
-run for all 5 models -- numeric labels were only run for claude-haiku and
-minicpm-v), description=long, prompt_mode=zero_shot_cot as the headline
-reasoning condition, both answer_format tracks (numeric and path) shown
-separately since they are deliberately independent prompt conditions.
+Scope (documented, not arbitrary): label_style=uppercase (the primary
+track; a secondary same-graph numeric-label comparison is also in
+evaluation/results/ for all 5 models), description=long,
+prompt_mode=zero_shot_cot as the headline reasoning condition, both
+answer_format tracks (numeric and path) shown separately since they are
+deliberately independent prompt conditions.
 
-Run from the evaluation/ directory: python3 ../analysis/analyze_v2_appendix.py
+Run from the evaluation/ directory: python3 ../analysis/analyze_results.py
 """
 import json
 import glob

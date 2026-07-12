@@ -5,8 +5,8 @@ Ground truth used to store only one shortest path per query
 (nx.dijkstra_path returns a single path even when several tie on total
 weight) and evaluate_vlms.py graded "path"-format answers by exact match
 against that one path — so a model producing a different, equally-valid
-tied path was marked incorrect. dataset/v2/mmrb_v2.0.json has since been
-patched to store every tied path per sample under
+tied path was marked incorrect. dataset/v1/mmgo_bench_v1.0.json has since
+been patched to store every tied path per sample under
 metadata["all_paths"], and evaluate_vlms.py's grader now checks
 membership in that set for any *new* run.
 
@@ -28,7 +28,7 @@ import json
 import re
 from pathlib import Path
 
-DATASET_PATH = Path("../dataset/v2/mmrb_v2.0.json")
+DATASET_PATH = Path("../dataset/v1/mmgo_bench_v1.0.json")
 RESULTS_GLOB = "results/path/**/*.json"
 
 

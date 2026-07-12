@@ -1,0 +1,7 @@
+networkx
+numpy
+matplotlib
+scipy
+httpx
+python-dotenv
+anthropic
