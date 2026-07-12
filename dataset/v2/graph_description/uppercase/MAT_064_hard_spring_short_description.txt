@@ -1,0 +1,1 @@
+This is an image in spring format. It has 15 nodes and 23 edges.

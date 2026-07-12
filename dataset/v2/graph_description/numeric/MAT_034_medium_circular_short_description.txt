@@ -1,0 +1,1 @@
+This is an image in circular format. It has 10 nodes and 16 edges.

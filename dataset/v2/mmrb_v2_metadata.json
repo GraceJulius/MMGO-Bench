@@ -1,0 +1,69 @@
+{
+  "benchmark_name": "MMRB v2.0",
+  "full_name": "Multimodal Reasoning Benchmark",
+  "version": "2.0",
+  "created_date": "2026-07-05T23:38:39.591030",
+  "author": "Grace Julius",
+  "supervisor": "Dr. Mina Samizadeh",
+  "institution": "Lincoln University",
+  "description": "Controlled redesign of MMRB: 4 layouts (shell dropped, degenerate with circular per REJECTION_RISKS.md), node label style (uppercase/numeric) as a controlled same-graph comparison rather than a random per-matrix choice, paired short/long text descriptions to accompany (not replace) the image, full shortest-path exact-match as the grading metric instead of total-weight match, and a layout-occlusion seed search so no unrelated node visually sits on top of another edge's line.",
+  "total_base_matrices": 90,
+  "total_samples": 720,
+  "samples_per_matrix": 8,
+  "layouts": [
+    "spring",
+    "kamada_kawai",
+    "circular",
+    "random"
+  ],
+  "label_styles": [
+    "uppercase",
+    "numeric"
+  ],
+  "difficulty_distribution": {
+    "easy": 240,
+    "medium": 240,
+    "hard": 240
+  },
+  "layout_distribution": {
+    "spring": 180,
+    "kamada_kawai": 180,
+    "circular": 180,
+    "random": 180
+  },
+  "label_style_distribution": {
+    "uppercase": 360,
+    "numeric": 360
+  },
+  "graph_parameters": {
+    "easy": {
+      "min_nodes": 4,
+      "max_nodes": 6,
+      "edge_prob": 0.5,
+      "weight_range": [
+        1,
+        5
+      ]
+    },
+    "medium": {
+      "min_nodes": 7,
+      "max_nodes": 10,
+      "edge_prob": 0.35,
+      "weight_range": [
+        1,
+        10
+      ]
+    },
+    "hard": {
+      "min_nodes": 11,
+      "max_nodes": 15,
+      "edge_prob": 0.25,
+      "weight_range": [
+        1,
+        15
+      ]
+    }
+  },
+  "random_seed": 67,
+  "layout_quality_flagged_combos": 92
+}

@@ -1,0 +1,1 @@
+This is an image in random format. It has 10 nodes and 9 edges. The distance between A and C is 4, the distance between A and G is 9, the distance between B and C is 9, the distance between B and I is 3, the distance between C and H is 1, the distance between E and H is 2, the distance between E and I is 4, the distance between F and G is 1, the distance between G and I is 9.

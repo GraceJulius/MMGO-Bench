@@ -1,0 +1,1 @@
+This is an image in spring format. It has 5 nodes and 5 edges. The distance between A and B is 5, the distance between A and C is 4, the distance between B and C is 4, the distance between B and D is 5, the distance between C and E is 3.

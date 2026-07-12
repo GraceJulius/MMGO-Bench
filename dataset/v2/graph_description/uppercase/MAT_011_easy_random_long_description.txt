@@ -1,0 +1,1 @@
+This is an image in random format. It has 5 nodes and 3 edges. The distance between A and C is 1, the distance between A and E is 1, the distance between B and C is 2.

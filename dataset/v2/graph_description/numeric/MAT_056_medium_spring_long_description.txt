@@ -1,0 +1,1 @@
+This is an image in spring format. It has 8 nodes and 8 edges. The distance between 1 and 3 is 10, the distance between 2 and 5 is 1, the distance between 2 and 6 is 7, the distance between 3 and 5 is 9, the distance between 3 and 8 is 5, the distance between 4 and 7 is 7, the distance between 5 and 7 is 6, the distance between 5 and 8 is 9.

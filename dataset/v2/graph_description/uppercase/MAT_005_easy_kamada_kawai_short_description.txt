@@ -1,0 +1,1 @@
+This is an image in kamada-kawai format. It has 6 nodes and 6 edges.

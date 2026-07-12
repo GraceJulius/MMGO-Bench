@@ -1,0 +1,1 @@
+This is an image in circular format. It has 6 nodes and 5 edges. The distance between A and C is 4, the distance between A and F is 2, the distance between C and F is 5, the distance between D and E is 2, the distance between D and F is 5.

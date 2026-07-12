@@ -1,0 +1,92 @@
+{
+  "matrix_id": "MAT_051_medium",
+  "difficulty": "medium",
+  "n_nodes": 7,
+  "adjacency_matrix": [
+    [
+      0,
+      0,
+      4,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      7,
+      0,
+      0,
+      0,
+      10
+    ],
+    [
+      4,
+      7,
+      0,
+      3,
+      9,
+      3,
+      0
+    ],
+    [
+      0,
+      0,
+      3,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      9,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      0,
+      0,
+      3,
+      0,
+      0,
+      0,
+      10
+    ],
+    [
+      0,
+      10,
+      0,
+      0,
+      0,
+      10,
+      0
+    ]
+  ],
+  "query_indices": [
+    2,
+    6
+  ],
+  "path_indices": [
+    2,
+    5,
+    6
+  ],
+  "path_length": 13,
+  "layout_seeds": {
+    "spring": 67,
+    "kamada_kawai": 67,
+    "circular": 67,
+    "random": 68
+  },
+  "layout_occlusion_scores": {
+    "spring": 0.0,
+    "kamada_kawai": 0.0,
+    "circular": 0.0,
+    "random": 0.0
+  }
+}

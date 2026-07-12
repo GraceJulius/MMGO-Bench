@@ -1,0 +1,1 @@
+This is an image in circular format. It has 4 nodes and 4 edges. The distance between 1 and 2 is 2, the distance between 1 and 3 is 2, the distance between 2 and 3 is 3, the distance between 2 and 4 is 1.

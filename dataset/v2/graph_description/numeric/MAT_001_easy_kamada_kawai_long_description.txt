@@ -1,0 +1,1 @@
+This is an image in kamada-kawai format. It has 4 nodes and 2 edges. The distance between 1 and 4 is 2, the distance between 2 and 4 is 4.

@@ -1,0 +1,1 @@
+This is an image in kamada-kawai format. It has 6 nodes and 6 edges. The distance between A and E is 2, the distance between A and F is 5, the distance between B and D is 5, the distance between B and E is 2, the distance between B and F is 1, the distance between D and F is 1.

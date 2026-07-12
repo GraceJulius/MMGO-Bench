@@ -1,0 +1,1 @@
+This is an image in kamada-kawai format. It has 12 nodes and 19 edges.

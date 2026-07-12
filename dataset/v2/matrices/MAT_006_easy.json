@@ -1,0 +1,63 @@
+{
+  "matrix_id": "MAT_006_easy",
+  "difficulty": "easy",
+  "n_nodes": 5,
+  "adjacency_matrix": [
+    [
+      0,
+      2,
+      0,
+      0,
+      0
+    ],
+    [
+      2,
+      0,
+      0,
+      0,
+      2
+    ],
+    [
+      0,
+      0,
+      0,
+      3,
+      3
+    ],
+    [
+      0,
+      0,
+      3,
+      0,
+      5
+    ],
+    [
+      0,
+      2,
+      3,
+      5,
+      0
+    ]
+  ],
+  "query_indices": [
+    0,
+    1
+  ],
+  "path_indices": [
+    0,
+    1
+  ],
+  "path_length": 2,
+  "layout_seeds": {
+    "spring": 67,
+    "kamada_kawai": 67,
+    "circular": 67,
+    "random": 67
+  },
+  "layout_occlusion_scores": {
+    "spring": 0.0,
+    "kamada_kawai": 0.0,
+    "circular": 0.0,
+    "random": 0.0
+  }
+}
