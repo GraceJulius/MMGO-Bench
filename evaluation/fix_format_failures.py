@@ -160,8 +160,15 @@ def correct_one_combo(model, prompt_mode, description, label_style, orig_file, c
             continue
 
         from pathlib import PureWindowsPath
-        desc_path = ev.DATASET_ROOT / PureWindowsPath(
-            sample[f"description_{description}_file"]).as_posix()
+        # Same modality-specific description preference as evaluate_vlms.py
+        # — the correction retry reconstructs the same first-turn text, so
+        # it must match what the original run actually sent.
+        desc_key = f"description_{description}_file"
+        if modality == "text_only":
+            textonly_key = f"description_{description}_textonly_file"
+            if sample.get(textonly_key):
+                desc_key = textonly_key
+        desc_path = ev.DATASET_ROOT / PureWindowsPath(sample[desc_key]).as_posix()
         question_text = f"{desc_path.read_text(encoding='utf-8')}\n\n{sample['question']}"
         if modality == "multimodal":
             image_path = ev.DATASET_ROOT / PureWindowsPath(sample["image_file"]).as_posix()

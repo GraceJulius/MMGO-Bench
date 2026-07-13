@@ -1,0 +1,1 @@
+It has 5 nodes and 6 edges. The distance between A and C is 4, the distance between A and D is 1, the distance between B and C is 2, the distance between C and D is 4, the distance between C and E is 2, the distance between D and E is 3.

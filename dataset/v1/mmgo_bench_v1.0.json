@@ -81,7 +81,8 @@
           "B"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_001_easy_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_001_easy_kamada_kawai_uppercase",
@@ -165,7 +166,8 @@
           "B"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_001_easy_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_001_easy_circular_uppercase",
@@ -249,7 +251,8 @@
           "B"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_001_easy_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_001_easy_random_uppercase",
@@ -333,7 +336,8 @@
           "B"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_001_easy_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_001_easy_spring_numeric",
@@ -778,7 +782,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_002_easy_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_002_easy_kamada_kawai_uppercase",
@@ -887,7 +892,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_002_easy_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_002_easy_circular_uppercase",
@@ -996,7 +1002,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_002_easy_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_002_easy_random_uppercase",
@@ -1105,7 +1112,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_002_easy_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_002_easy_spring_numeric",
@@ -1684,7 +1692,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_003_easy_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_003_easy_kamada_kawai_uppercase",
@@ -1827,7 +1836,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_003_easy_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_003_easy_circular_uppercase",
@@ -1970,7 +1980,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_003_easy_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_003_easy_random_uppercase",
@@ -2113,7 +2124,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_003_easy_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_003_easy_spring_numeric",
@@ -2818,7 +2830,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_004_easy_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_004_easy_kamada_kawai_uppercase",
@@ -2951,7 +2964,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_004_easy_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_004_easy_circular_uppercase",
@@ -3084,7 +3098,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_004_easy_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_004_easy_random_uppercase",
@@ -3217,7 +3232,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_004_easy_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_004_easy_spring_numeric",
@@ -3879,7 +3895,8 @@
           "B"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_005_easy_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_005_easy_kamada_kawai_uppercase",
@@ -4009,7 +4026,8 @@
           "B"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_005_easy_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_005_easy_circular_uppercase",
@@ -4139,7 +4157,8 @@
           "B"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_005_easy_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_005_easy_random_uppercase",
@@ -4269,7 +4288,8 @@
           "B"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_005_easy_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_005_easy_spring_numeric",
@@ -4898,7 +4918,8 @@
           "B"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_006_easy_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_006_easy_kamada_kawai_uppercase",
@@ -5007,7 +5028,8 @@
           "B"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_006_easy_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_006_easy_circular_uppercase",
@@ -5116,7 +5138,8 @@
           "B"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_006_easy_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_006_easy_random_uppercase",
@@ -5225,7 +5248,8 @@
           "B"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_006_easy_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_006_easy_spring_numeric",
@@ -5775,7 +5799,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_007_easy_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_007_easy_kamada_kawai_uppercase",
@@ -5889,7 +5914,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_007_easy_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_007_easy_circular_uppercase",
@@ -6003,7 +6029,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_007_easy_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_007_easy_random_uppercase",
@@ -6117,7 +6144,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_007_easy_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_007_easy_spring_numeric",
@@ -6711,7 +6739,8 @@
           "C"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_008_easy_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_008_easy_kamada_kawai_uppercase",
@@ -6849,7 +6878,8 @@
           "C"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_008_easy_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_008_easy_circular_uppercase",
@@ -6987,7 +7017,8 @@
           "C"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_008_easy_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_008_easy_random_uppercase",
@@ -7125,7 +7156,8 @@
           "C"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_008_easy_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_008_easy_spring_numeric",
@@ -7811,7 +7843,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_009_easy_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_009_easy_kamada_kawai_uppercase",
@@ -7945,7 +7978,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_009_easy_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_009_easy_circular_uppercase",
@@ -8079,7 +8113,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_009_easy_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_009_easy_random_uppercase",
@@ -8213,7 +8248,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_009_easy_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_009_easy_spring_numeric",
@@ -8894,7 +8930,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_010_easy_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_010_easy_kamada_kawai_uppercase",
@@ -9039,7 +9076,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_010_easy_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_010_easy_circular_uppercase",
@@ -9184,7 +9222,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_010_easy_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_010_easy_random_uppercase",
@@ -9329,7 +9368,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_010_easy_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_010_easy_spring_numeric",
@@ -10010,7 +10050,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_011_easy_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_011_easy_kamada_kawai_uppercase",
@@ -10111,7 +10152,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_011_easy_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_011_easy_circular_uppercase",
@@ -10212,7 +10254,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_011_easy_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_011_easy_random_uppercase",
@@ -10313,7 +10356,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_011_easy_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_011_easy_spring_numeric",
@@ -10809,7 +10853,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_012_easy_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_012_easy_kamada_kawai_uppercase",
@@ -10901,7 +10946,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_012_easy_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_012_easy_circular_uppercase",
@@ -10993,7 +11039,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_012_easy_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_012_easy_random_uppercase",
@@ -11085,7 +11132,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_012_easy_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_012_easy_spring_numeric",
@@ -11593,7 +11641,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_013_easy_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_013_easy_kamada_kawai_uppercase",
@@ -11733,7 +11782,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_013_easy_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_013_easy_circular_uppercase",
@@ -11873,7 +11923,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_013_easy_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_013_easy_random_uppercase",
@@ -12013,7 +12064,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_013_easy_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_013_easy_spring_numeric",
@@ -12711,7 +12763,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_014_easy_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_014_easy_kamada_kawai_uppercase",
@@ -12849,7 +12902,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_014_easy_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_014_easy_circular_uppercase",
@@ -12987,7 +13041,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_014_easy_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_014_easy_random_uppercase",
@@ -13125,7 +13180,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_014_easy_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_014_easy_spring_numeric",
@@ -13759,7 +13815,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_015_easy_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_015_easy_kamada_kawai_uppercase",
@@ -13841,7 +13898,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_015_easy_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_015_easy_circular_uppercase",
@@ -13923,7 +13981,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_015_easy_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_015_easy_random_uppercase",
@@ -14005,7 +14064,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_015_easy_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_015_easy_spring_numeric",
@@ -14462,7 +14522,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_016_easy_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_016_easy_kamada_kawai_uppercase",
@@ -14591,7 +14652,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_016_easy_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_016_easy_circular_uppercase",
@@ -14720,7 +14782,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_016_easy_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_016_easy_random_uppercase",
@@ -14849,7 +14912,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_016_easy_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_016_easy_spring_numeric",
@@ -15503,7 +15567,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_017_easy_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_017_easy_kamada_kawai_uppercase",
@@ -15641,7 +15706,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_017_easy_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_017_easy_circular_uppercase",
@@ -15779,7 +15845,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_017_easy_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_017_easy_random_uppercase",
@@ -15917,7 +15984,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_017_easy_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_017_easy_spring_numeric",
@@ -16575,7 +16643,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_018_easy_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_018_easy_kamada_kawai_uppercase",
@@ -16681,7 +16750,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_018_easy_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_018_easy_circular_uppercase",
@@ -16787,7 +16857,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_018_easy_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_018_easy_random_uppercase",
@@ -16893,7 +16964,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_018_easy_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_018_easy_spring_numeric",
@@ -17409,7 +17481,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_019_easy_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_019_easy_kamada_kawai_uppercase",
@@ -17501,7 +17574,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_019_easy_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_019_easy_circular_uppercase",
@@ -17593,7 +17667,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_019_easy_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_019_easy_random_uppercase",
@@ -17685,7 +17760,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_019_easy_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_019_easy_spring_numeric",
@@ -18145,7 +18221,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_020_easy_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_020_easy_kamada_kawai_uppercase",
@@ -18237,7 +18314,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_020_easy_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_020_easy_circular_uppercase",
@@ -18329,7 +18407,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_020_easy_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_020_easy_random_uppercase",
@@ -18421,7 +18500,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_020_easy_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_020_easy_spring_numeric",
@@ -18937,7 +19017,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_021_easy_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_021_easy_kamada_kawai_uppercase",
@@ -19085,7 +19166,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_021_easy_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_021_easy_circular_uppercase",
@@ -19233,7 +19315,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_021_easy_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_021_easy_random_uppercase",
@@ -19381,7 +19464,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_021_easy_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_021_easy_spring_numeric",
@@ -20062,7 +20146,8 @@
           "C"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_022_easy_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_022_easy_kamada_kawai_uppercase",
@@ -20151,7 +20236,8 @@
           "C"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_022_easy_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_022_easy_circular_uppercase",
@@ -20240,7 +20326,8 @@
           "C"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_022_easy_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_022_easy_random_uppercase",
@@ -20329,7 +20416,8 @@
           "C"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_022_easy_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_022_easy_spring_numeric",
@@ -20791,7 +20879,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_023_easy_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_023_easy_kamada_kawai_uppercase",
@@ -20897,7 +20986,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_023_easy_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_023_easy_circular_uppercase",
@@ -21003,7 +21093,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_023_easy_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_023_easy_random_uppercase",
@@ -21109,7 +21200,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_023_easy_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_023_easy_spring_numeric",
@@ -21617,7 +21709,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_024_easy_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_024_easy_kamada_kawai_uppercase",
@@ -21701,7 +21794,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_024_easy_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_024_easy_circular_uppercase",
@@ -21785,7 +21879,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_024_easy_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_024_easy_random_uppercase",
@@ -21869,7 +21964,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_024_easy_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_024_easy_spring_numeric",
@@ -22328,7 +22424,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_025_easy_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_025_easy_kamada_kawai_uppercase",
@@ -22451,7 +22548,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_025_easy_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_025_easy_circular_uppercase",
@@ -22574,7 +22672,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_025_easy_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_025_easy_random_uppercase",
@@ -22697,7 +22796,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_025_easy_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_025_easy_spring_numeric",
@@ -23327,7 +23427,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_026_easy_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_026_easy_kamada_kawai_uppercase",
@@ -23465,7 +23566,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_026_easy_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_026_easy_circular_uppercase",
@@ -23603,7 +23705,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_026_easy_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_026_easy_random_uppercase",
@@ -23741,7 +23844,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_026_easy_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_026_easy_spring_numeric",
@@ -24402,7 +24506,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_027_easy_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_027_easy_kamada_kawai_uppercase",
@@ -24511,7 +24616,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_027_easy_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_027_easy_circular_uppercase",
@@ -24620,7 +24726,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_027_easy_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_027_easy_random_uppercase",
@@ -24729,7 +24836,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_027_easy_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_027_easy_spring_numeric",
@@ -25303,7 +25411,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_028_easy_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_028_easy_kamada_kawai_uppercase",
@@ -25441,7 +25550,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_028_easy_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_028_easy_circular_uppercase",
@@ -25579,7 +25689,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_028_easy_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_028_easy_random_uppercase",
@@ -25717,7 +25828,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_028_easy_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_028_easy_spring_numeric",
@@ -26380,7 +26492,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_029_easy_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_029_easy_kamada_kawai_uppercase",
@@ -26491,7 +26604,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_029_easy_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_029_easy_circular_uppercase",
@@ -26602,7 +26716,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_029_easy_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_029_easy_random_uppercase",
@@ -26713,7 +26828,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_029_easy_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_029_easy_spring_numeric",
@@ -27249,7 +27365,8 @@
           "B"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_030_easy_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_030_easy_kamada_kawai_uppercase",
@@ -27341,7 +27458,8 @@
           "B"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_030_easy_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_030_easy_circular_uppercase",
@@ -27433,7 +27551,8 @@
           "B"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_030_easy_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_030_easy_random_uppercase",
@@ -27525,7 +27644,8 @@
           "B"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_030_easy_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_030_easy_spring_numeric",
@@ -28114,7 +28234,8 @@
           "I"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_031_medium_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_031_medium_kamada_kawai_uppercase",
@@ -28335,7 +28456,8 @@
           "I"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_031_medium_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_031_medium_circular_uppercase",
@@ -28556,7 +28678,8 @@
           "I"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_031_medium_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_031_medium_random_uppercase",
@@ -28777,7 +28900,8 @@
           "I"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_031_medium_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_031_medium_spring_numeric",
@@ -29853,7 +29977,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_032_medium_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_032_medium_kamada_kawai_uppercase",
@@ -30045,7 +30170,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_032_medium_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_032_medium_circular_uppercase",
@@ -30237,7 +30363,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_032_medium_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_032_medium_random_uppercase",
@@ -30429,7 +30556,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_032_medium_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_032_medium_spring_numeric",
@@ -31443,7 +31571,8 @@
           "I"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_033_medium_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_033_medium_kamada_kawai_uppercase",
@@ -31689,7 +31818,8 @@
           "I"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_033_medium_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_033_medium_circular_uppercase",
@@ -31935,7 +32065,8 @@
           "I"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_033_medium_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_033_medium_random_uppercase",
@@ -32181,7 +32312,8 @@
           "I"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_033_medium_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_033_medium_spring_numeric",
@@ -33421,7 +33553,8 @@
           "H"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_034_medium_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_034_medium_kamada_kawai_uppercase",
@@ -33677,7 +33810,8 @@
           "H"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_034_medium_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_034_medium_circular_uppercase",
@@ -33933,7 +34067,8 @@
           "H"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_034_medium_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_034_medium_random_uppercase",
@@ -34189,7 +34324,8 @@
           "H"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_034_medium_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_034_medium_spring_numeric",
@@ -35369,7 +35505,8 @@
           "G"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_035_medium_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_035_medium_kamada_kawai_uppercase",
@@ -35525,7 +35662,8 @@
           "G"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_035_medium_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_035_medium_circular_uppercase",
@@ -35681,7 +35819,8 @@
           "G"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_035_medium_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_035_medium_random_uppercase",
@@ -35837,7 +35976,8 @@
           "G"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_035_medium_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_035_medium_spring_numeric",
@@ -36663,7 +36803,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_036_medium_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_036_medium_kamada_kawai_uppercase",
@@ -36865,7 +37006,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_036_medium_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_036_medium_circular_uppercase",
@@ -37067,7 +37209,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_036_medium_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_036_medium_random_uppercase",
@@ -37269,7 +37412,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_036_medium_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_036_medium_spring_numeric",
@@ -38328,7 +38472,8 @@
           "I"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_037_medium_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_037_medium_kamada_kawai_uppercase",
@@ -38579,7 +38724,8 @@
           "I"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_037_medium_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_037_medium_circular_uppercase",
@@ -38830,7 +38976,8 @@
           "I"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_037_medium_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_037_medium_random_uppercase",
@@ -39081,7 +39228,8 @@
           "I"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_037_medium_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_037_medium_spring_numeric",
@@ -40296,7 +40444,8 @@
           "G"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_038_medium_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_038_medium_kamada_kawai_uppercase",
@@ -40507,7 +40656,8 @@
           "G"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_038_medium_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_038_medium_circular_uppercase",
@@ -40718,7 +40868,8 @@
           "G"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_038_medium_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_038_medium_random_uppercase",
@@ -40929,7 +41080,8 @@
           "G"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_038_medium_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_038_medium_spring_numeric",
@@ -41937,7 +42089,8 @@
           "G"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_039_medium_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_039_medium_kamada_kawai_uppercase",
@@ -42101,7 +42254,8 @@
           "G"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_039_medium_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_039_medium_circular_uppercase",
@@ -42265,7 +42419,8 @@
           "G"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_039_medium_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_039_medium_random_uppercase",
@@ -42429,7 +42584,8 @@
           "G"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_039_medium_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_039_medium_spring_numeric",
@@ -43302,7 +43458,8 @@
           "I"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_040_medium_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_040_medium_kamada_kawai_uppercase",
@@ -43519,7 +43676,8 @@
           "I"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_040_medium_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_040_medium_circular_uppercase",
@@ -43736,7 +43894,8 @@
           "I"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_040_medium_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_040_medium_random_uppercase",
@@ -43953,7 +44112,8 @@
           "I"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_040_medium_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_040_medium_spring_numeric",
@@ -44967,7 +45127,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_041_medium_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_041_medium_kamada_kawai_uppercase",
@@ -45113,7 +45274,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_041_medium_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_041_medium_circular_uppercase",
@@ -45259,7 +45421,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_041_medium_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_041_medium_random_uppercase",
@@ -45405,7 +45568,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_041_medium_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_041_medium_spring_numeric",
@@ -46178,7 +46342,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_042_medium_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_042_medium_kamada_kawai_uppercase",
@@ -46367,7 +46532,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_042_medium_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_042_medium_circular_uppercase",
@@ -46556,7 +46722,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_042_medium_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_042_medium_random_uppercase",
@@ -46745,7 +46912,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_042_medium_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_042_medium_spring_numeric",
@@ -47645,7 +47813,8 @@
           "G"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_043_medium_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_043_medium_kamada_kawai_uppercase",
@@ -47789,7 +47958,8 @@
           "G"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_043_medium_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_043_medium_circular_uppercase",
@@ -47933,7 +48103,8 @@
           "G"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_043_medium_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_043_medium_random_uppercase",
@@ -48077,7 +48248,8 @@
           "G"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_043_medium_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_043_medium_spring_numeric",
@@ -48892,7 +49064,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_044_medium_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_044_medium_kamada_kawai_uppercase",
@@ -49131,7 +49304,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_044_medium_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_044_medium_circular_uppercase",
@@ -49370,7 +49544,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_044_medium_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_044_medium_random_uppercase",
@@ -49609,7 +49784,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_044_medium_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_044_medium_spring_numeric",
@@ -50802,7 +50978,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_045_medium_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_045_medium_kamada_kawai_uppercase",
@@ -51039,7 +51216,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_045_medium_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_045_medium_circular_uppercase",
@@ -51276,7 +51454,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_045_medium_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_045_medium_random_uppercase",
@@ -51513,7 +51692,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_045_medium_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_045_medium_spring_numeric",
@@ -52633,7 +52813,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_046_medium_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_046_medium_kamada_kawai_uppercase",
@@ -52805,7 +52986,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_046_medium_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_046_medium_circular_uppercase",
@@ -52977,7 +53159,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_046_medium_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_046_medium_random_uppercase",
@@ -53149,7 +53332,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_046_medium_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_046_medium_spring_numeric",
@@ -53973,7 +54157,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_047_medium_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_047_medium_kamada_kawai_uppercase",
@@ -54109,7 +54294,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_047_medium_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_047_medium_circular_uppercase",
@@ -54245,7 +54431,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_047_medium_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_047_medium_random_uppercase",
@@ -54381,7 +54568,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_047_medium_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_047_medium_spring_numeric",
@@ -55066,7 +55254,8 @@
           "G"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_048_medium_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_048_medium_kamada_kawai_uppercase",
@@ -55207,7 +55396,8 @@
           "G"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_048_medium_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_048_medium_circular_uppercase",
@@ -55348,7 +55538,8 @@
           "G"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_048_medium_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_048_medium_random_uppercase",
@@ -55489,7 +55680,8 @@
           "G"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_048_medium_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_048_medium_spring_numeric",
@@ -56204,7 +56396,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_049_medium_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_049_medium_kamada_kawai_uppercase",
@@ -56355,7 +56548,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_049_medium_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_049_medium_circular_uppercase",
@@ -56506,7 +56700,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_049_medium_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_049_medium_random_uppercase",
@@ -56657,7 +56852,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_049_medium_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_049_medium_spring_numeric",
@@ -57482,7 +57678,8 @@
           "H"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_050_medium_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_050_medium_kamada_kawai_uppercase",
@@ -57703,7 +57900,8 @@
           "H"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_050_medium_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_050_medium_circular_uppercase",
@@ -57924,7 +58122,8 @@
           "H"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_050_medium_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_050_medium_random_uppercase",
@@ -58145,7 +58344,8 @@
           "H"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_050_medium_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_050_medium_spring_numeric",
@@ -59180,7 +59380,8 @@
           "G"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_051_medium_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_051_medium_kamada_kawai_uppercase",
@@ -59331,7 +59532,8 @@
           "G"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_051_medium_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_051_medium_circular_uppercase",
@@ -59482,7 +59684,8 @@
           "G"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_051_medium_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_051_medium_random_uppercase",
@@ -59633,7 +59836,8 @@
           "G"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_051_medium_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_051_medium_spring_numeric",
@@ -60472,7 +60676,8 @@
           "H"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_052_medium_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_052_medium_kamada_kawai_uppercase",
@@ -60707,7 +60912,8 @@
           "H"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_052_medium_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_052_medium_circular_uppercase",
@@ -60942,7 +61148,8 @@
           "H"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_052_medium_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_052_medium_random_uppercase",
@@ -61177,7 +61384,8 @@
           "H"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_052_medium_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_052_medium_spring_numeric",
@@ -62328,7 +62536,8 @@
           "I"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_053_medium_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_053_medium_kamada_kawai_uppercase",
@@ -62539,7 +62748,8 @@
           "I"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_053_medium_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_053_medium_circular_uppercase",
@@ -62750,7 +62960,8 @@
           "I"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_053_medium_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_053_medium_random_uppercase",
@@ -62961,7 +63172,8 @@
           "I"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_053_medium_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_053_medium_spring_numeric",
@@ -64066,7 +64278,8 @@
           "C"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_054_medium_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_054_medium_kamada_kawai_uppercase",
@@ -64327,7 +64540,8 @@
           "C"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_054_medium_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_054_medium_circular_uppercase",
@@ -64588,7 +64802,8 @@
           "C"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_054_medium_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_054_medium_random_uppercase",
@@ -64849,7 +65064,8 @@
           "C"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_054_medium_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_054_medium_spring_numeric",
@@ -66112,7 +66328,8 @@
           "B"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_055_medium_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_055_medium_kamada_kawai_uppercase",
@@ -66331,7 +66548,8 @@
           "B"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_055_medium_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_055_medium_circular_uppercase",
@@ -66550,7 +66768,8 @@
           "B"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_055_medium_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_055_medium_random_uppercase",
@@ -66769,7 +66988,8 @@
           "B"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_055_medium_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_055_medium_spring_numeric",
@@ -67819,7 +68039,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_056_medium_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_056_medium_kamada_kawai_uppercase",
@@ -67993,7 +68214,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_056_medium_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_056_medium_circular_uppercase",
@@ -68167,7 +68389,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_056_medium_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_056_medium_random_uppercase",
@@ -68341,7 +68564,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_056_medium_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_056_medium_spring_numeric",
@@ -69233,7 +69457,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_057_medium_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_057_medium_kamada_kawai_uppercase",
@@ -69429,7 +69654,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_057_medium_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_057_medium_circular_uppercase",
@@ -69625,7 +69851,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_057_medium_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_057_medium_random_uppercase",
@@ -69821,7 +70048,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_057_medium_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_057_medium_spring_numeric",
@@ -70831,7 +71059,8 @@
           "G"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_058_medium_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_058_medium_kamada_kawai_uppercase",
@@ -71057,7 +71286,8 @@
           "G"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_058_medium_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_058_medium_circular_uppercase",
@@ -71283,7 +71513,8 @@
           "G"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_058_medium_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_058_medium_random_uppercase",
@@ -71509,7 +71740,8 @@
           "G"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_058_medium_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_058_medium_spring_numeric",
@@ -72554,7 +72786,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_059_medium_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_059_medium_kamada_kawai_uppercase",
@@ -72695,7 +72928,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_059_medium_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_059_medium_circular_uppercase",
@@ -72836,7 +73070,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_059_medium_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_059_medium_random_uppercase",
@@ -72977,7 +73212,8 @@
           "D"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_059_medium_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_059_medium_spring_numeric",
@@ -73816,7 +74052,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_060_medium_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_060_medium_kamada_kawai_uppercase",
@@ -74091,7 +74328,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_060_medium_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_060_medium_circular_uppercase",
@@ -74366,7 +74604,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_060_medium_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_060_medium_random_uppercase",
@@ -74641,7 +74880,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_060_medium_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_060_medium_spring_numeric",
@@ -76108,7 +76348,8 @@
           "I"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_061_hard_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_061_hard_kamada_kawai_uppercase",
@@ -76475,7 +76716,8 @@
           "I"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_061_hard_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_061_hard_circular_uppercase",
@@ -76842,7 +77084,8 @@
           "I"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_061_hard_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_061_hard_random_uppercase",
@@ -77209,7 +77452,8 @@
           "I"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_061_hard_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_061_hard_spring_numeric",
@@ -78996,7 +79240,8 @@
           "J"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_062_hard_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_062_hard_kamada_kawai_uppercase",
@@ -79315,7 +79560,8 @@
           "J"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_062_hard_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_062_hard_circular_uppercase",
@@ -79634,7 +79880,8 @@
           "J"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_062_hard_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_062_hard_random_uppercase",
@@ -79953,7 +80200,8 @@
           "J"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_062_hard_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_062_hard_spring_numeric",
@@ -81568,7 +81816,8 @@
           "H"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_063_hard_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_063_hard_kamada_kawai_uppercase",
@@ -81907,7 +82156,8 @@
           "H"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_063_hard_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_063_hard_circular_uppercase",
@@ -82246,7 +82496,8 @@
           "H"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_063_hard_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_063_hard_random_uppercase",
@@ -82585,7 +82836,8 @@
           "H"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_063_hard_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_063_hard_spring_numeric",
@@ -84372,7 +84624,8 @@
           "M"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_064_hard_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_064_hard_kamada_kawai_uppercase",
@@ -84803,7 +85056,8 @@
           "M"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_064_hard_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_064_hard_circular_uppercase",
@@ -85234,7 +85488,8 @@
           "M"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_064_hard_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_064_hard_random_uppercase",
@@ -85665,7 +85920,8 @@
           "M"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_064_hard_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_064_hard_spring_numeric",
@@ -87850,7 +88106,8 @@
           "N"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_065_hard_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_065_hard_kamada_kawai_uppercase",
@@ -88311,7 +88568,8 @@
           "N"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_065_hard_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_065_hard_circular_uppercase",
@@ -88772,7 +89030,8 @@
           "N"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_065_hard_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_065_hard_random_uppercase",
@@ -89233,7 +89492,8 @@
           "N"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_065_hard_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_065_hard_spring_numeric",
@@ -91373,7 +91633,8 @@
           "I"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_066_hard_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_066_hard_kamada_kawai_uppercase",
@@ -91669,7 +91930,8 @@
           "I"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_066_hard_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_066_hard_circular_uppercase",
@@ -91965,7 +92227,8 @@
           "I"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_066_hard_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_066_hard_random_uppercase",
@@ -92261,7 +92524,8 @@
           "I"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_066_hard_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_066_hard_spring_numeric",
@@ -93864,7 +94128,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_067_hard_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_067_hard_kamada_kawai_uppercase",
@@ -94283,7 +94548,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_067_hard_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_067_hard_circular_uppercase",
@@ -94702,7 +94968,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_067_hard_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_067_hard_random_uppercase",
@@ -95121,7 +95388,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_067_hard_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_067_hard_spring_numeric",
@@ -97128,7 +97396,8 @@
           "K"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_068_hard_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_068_hard_kamada_kawai_uppercase",
@@ -97459,7 +97728,8 @@
           "K"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_068_hard_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_068_hard_circular_uppercase",
@@ -97790,7 +98060,8 @@
           "K"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_068_hard_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_068_hard_random_uppercase",
@@ -98121,7 +98392,8 @@
           "K"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_068_hard_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_068_hard_spring_numeric",
@@ -99826,7 +100098,8 @@
           "K"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_069_hard_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_069_hard_kamada_kawai_uppercase",
@@ -100207,7 +100480,8 @@
           "K"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_069_hard_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_069_hard_circular_uppercase",
@@ -100588,7 +100862,8 @@
           "K"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_069_hard_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_069_hard_random_uppercase",
@@ -100969,7 +101244,8 @@
           "K"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_069_hard_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_069_hard_spring_numeric",
@@ -102971,7 +103247,8 @@
           "M"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_070_hard_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_070_hard_kamada_kawai_uppercase",
@@ -103449,7 +103726,8 @@
           "M"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_070_hard_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_070_hard_circular_uppercase",
@@ -103927,7 +104205,8 @@
           "M"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_070_hard_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_070_hard_random_uppercase",
@@ -104405,7 +104684,8 @@
           "M"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_070_hard_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_070_hard_spring_numeric",
@@ -106676,7 +106956,8 @@
           "K"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_071_hard_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_071_hard_kamada_kawai_uppercase",
@@ -107035,7 +107316,8 @@
           "K"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_071_hard_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_071_hard_circular_uppercase",
@@ -107394,7 +107676,8 @@
           "K"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_071_hard_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_071_hard_random_uppercase",
@@ -107753,7 +108036,8 @@
           "K"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_071_hard_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_071_hard_spring_numeric",
@@ -109551,7 +109835,8 @@
           "M"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_072_hard_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_072_hard_kamada_kawai_uppercase",
@@ -109913,7 +110198,8 @@
           "M"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_072_hard_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_072_hard_circular_uppercase",
@@ -110275,7 +110561,8 @@
           "M"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_072_hard_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_072_hard_random_uppercase",
@@ -110637,7 +110924,8 @@
           "M"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_072_hard_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_072_hard_spring_numeric",
@@ -112523,7 +112811,8 @@
           "O"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_073_hard_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_073_hard_kamada_kawai_uppercase",
@@ -112961,7 +113250,8 @@
           "O"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_073_hard_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_073_hard_circular_uppercase",
@@ -113399,7 +113689,8 @@
           "O"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_073_hard_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_073_hard_random_uppercase",
@@ -113837,7 +114128,8 @@
           "O"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_073_hard_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_073_hard_spring_numeric",
@@ -115915,7 +116207,8 @@
           "G"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_074_hard_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_074_hard_kamada_kawai_uppercase",
@@ -116241,7 +116534,8 @@
           "G"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_074_hard_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_074_hard_circular_uppercase",
@@ -116567,7 +116861,8 @@
           "G"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_074_hard_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_074_hard_random_uppercase",
@@ -116893,7 +117188,8 @@
           "G"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_074_hard_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_074_hard_spring_numeric",
@@ -118662,7 +118958,8 @@
           "L"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_075_hard_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_075_hard_kamada_kawai_uppercase",
@@ -119127,7 +119424,8 @@
           "L"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_075_hard_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_075_hard_circular_uppercase",
@@ -119592,7 +119890,8 @@
           "L"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_075_hard_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_075_hard_random_uppercase",
@@ -120057,7 +120356,8 @@
           "L"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_075_hard_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_075_hard_spring_numeric",
@@ -122336,7 +122636,8 @@
           "I"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_076_hard_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_076_hard_kamada_kawai_uppercase",
@@ -122755,7 +123056,8 @@
           "I"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_076_hard_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_076_hard_circular_uppercase",
@@ -123174,7 +123476,8 @@
           "I"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_076_hard_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_076_hard_random_uppercase",
@@ -123593,7 +123896,8 @@
           "I"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_076_hard_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_076_hard_spring_numeric",
@@ -125584,7 +125888,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_077_hard_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_077_hard_kamada_kawai_uppercase",
@@ -125899,7 +126204,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_077_hard_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_077_hard_circular_uppercase",
@@ -126214,7 +126520,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_077_hard_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_077_hard_random_uppercase",
@@ -126529,7 +126836,8 @@
           "E"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_077_hard_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_077_hard_spring_numeric",
@@ -128250,7 +128558,8 @@
           "L"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_078_hard_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_078_hard_kamada_kawai_uppercase",
@@ -128711,7 +129020,8 @@
           "L"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_078_hard_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_078_hard_circular_uppercase",
@@ -129172,7 +129482,8 @@
           "L"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_078_hard_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_078_hard_random_uppercase",
@@ -129633,7 +129944,8 @@
           "L"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_078_hard_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_078_hard_spring_numeric",
@@ -131920,7 +132232,8 @@
           "L"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_079_hard_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_079_hard_kamada_kawai_uppercase",
@@ -132363,7 +132676,8 @@
           "L"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_079_hard_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_079_hard_circular_uppercase",
@@ -132806,7 +133120,8 @@
           "L"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_079_hard_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_079_hard_random_uppercase",
@@ -133249,7 +133564,8 @@
           "L"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_079_hard_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_079_hard_spring_numeric",
@@ -135389,7 +135705,8 @@
           "C"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_080_hard_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_080_hard_kamada_kawai_uppercase",
@@ -135757,7 +136074,8 @@
           "C"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_080_hard_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_080_hard_circular_uppercase",
@@ -136125,7 +136443,8 @@
           "C"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_080_hard_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_080_hard_random_uppercase",
@@ -136493,7 +136812,8 @@
           "C"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_080_hard_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_080_hard_spring_numeric",
@@ -138230,7 +138550,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_081_hard_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_081_hard_kamada_kawai_uppercase",
@@ -138495,7 +138816,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_081_hard_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_081_hard_circular_uppercase",
@@ -138760,7 +139082,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_081_hard_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_081_hard_random_uppercase",
@@ -139025,7 +139348,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_081_hard_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_081_hard_spring_numeric",
@@ -140541,7 +140865,8 @@
           "J"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_082_hard_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_082_hard_kamada_kawai_uppercase",
@@ -140997,7 +141322,8 @@
           "J"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_082_hard_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_082_hard_circular_uppercase",
@@ -141453,7 +141779,8 @@
           "J"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_082_hard_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_082_hard_random_uppercase",
@@ -141909,7 +142236,8 @@
           "J"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_082_hard_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_082_hard_spring_numeric",
@@ -144189,7 +144517,8 @@
           "O"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_083_hard_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_083_hard_kamada_kawai_uppercase",
@@ -144645,7 +144974,8 @@
           "O"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_083_hard_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_083_hard_circular_uppercase",
@@ -145101,7 +145431,8 @@
           "O"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_083_hard_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_083_hard_random_uppercase",
@@ -145557,7 +145888,8 @@
           "O"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_083_hard_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_083_hard_spring_numeric",
@@ -147715,7 +148047,8 @@
           "I"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_084_hard_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_084_hard_kamada_kawai_uppercase",
@@ -148049,7 +148382,8 @@
           "I"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_084_hard_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_084_hard_circular_uppercase",
@@ -148383,7 +148717,8 @@
           "I"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_084_hard_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_084_hard_random_uppercase",
@@ -148717,7 +149052,8 @@
           "I"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_084_hard_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_084_hard_spring_numeric",
@@ -150507,7 +150843,8 @@
           "N"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_085_hard_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_085_hard_kamada_kawai_uppercase",
@@ -150961,7 +151298,8 @@
           "N"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_085_hard_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_085_hard_circular_uppercase",
@@ -151415,7 +151753,8 @@
           "N"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_085_hard_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_085_hard_random_uppercase",
@@ -151869,7 +152208,8 @@
           "N"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_085_hard_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_085_hard_spring_numeric",
@@ -154089,7 +154429,8 @@
           "M"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_086_hard_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_086_hard_kamada_kawai_uppercase",
@@ -154493,7 +154834,8 @@
           "M"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_086_hard_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_086_hard_circular_uppercase",
@@ -154897,7 +155239,8 @@
           "M"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_086_hard_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_086_hard_random_uppercase",
@@ -155301,7 +155644,8 @@
           "M"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_086_hard_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_086_hard_spring_numeric",
@@ -157210,7 +157554,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_087_hard_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_087_hard_kamada_kawai_uppercase",
@@ -157503,7 +157848,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_087_hard_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_087_hard_circular_uppercase",
@@ -157796,7 +158142,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_087_hard_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_087_hard_random_uppercase",
@@ -158089,7 +158436,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_087_hard_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_087_hard_spring_numeric",
@@ -159613,7 +159961,8 @@
           "H"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_088_hard_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_088_hard_kamada_kawai_uppercase",
@@ -159965,7 +160314,8 @@
           "H"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_088_hard_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_088_hard_circular_uppercase",
@@ -160317,7 +160667,8 @@
           "H"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_088_hard_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_088_hard_random_uppercase",
@@ -160669,7 +161020,8 @@
           "H"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_088_hard_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_088_hard_spring_numeric",
@@ -162523,7 +162875,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_089_hard_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_089_hard_kamada_kawai_uppercase",
@@ -162969,7 +163322,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_089_hard_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_089_hard_circular_uppercase",
@@ -163415,7 +163769,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_089_hard_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_089_hard_random_uppercase",
@@ -163861,7 +164216,8 @@
           "F"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_089_hard_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_089_hard_spring_numeric",
@@ -165915,7 +166271,8 @@
           "G"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_090_hard_spring_long_description_textonly.txt"
   },
   {
     "id": "MAT_090_hard_kamada_kawai_uppercase",
@@ -166185,7 +166542,8 @@
           "G"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_090_hard_kamada_kawai_long_description_textonly.txt"
   },
   {
     "id": "MAT_090_hard_circular_uppercase",
@@ -166455,7 +166813,8 @@
           "G"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_090_hard_circular_long_description_textonly.txt"
   },
   {
     "id": "MAT_090_hard_random_uppercase",
@@ -166725,7 +167084,8 @@
           "G"
         ]
       ]
-    }
+    },
+    "description_long_textonly_file": "v1/graph_description/uppercase/textonly/MAT_090_hard_random_long_description_textonly.txt"
   },
   {
     "id": "MAT_090_hard_spring_numeric",

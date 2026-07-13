@@ -423,7 +423,18 @@ def evaluate_model(model_name, caller_func, model_id, dataset, max_samples=None,
                 image_b64 = encode_image_base64(image_path)
             else:
                 image_b64 = None
-            desc_path = DATASET_ROOT / PureWindowsPath(sample[f"description_{description}_file"]).as_posix()
+            # For text_only, prefer a modality-specific description if the
+            # dataset has one (e.g. description_long_textonly_file strips
+            # "This is an image in <layout> format." — nonsensical when no
+            # image is sent). Falls back to the regular description file
+            # for any (description, label_style) combo that doesn't have a
+            # text-only variant generated yet.
+            desc_key = f"description_{description}_file"
+            if modality == "text_only":
+                textonly_key = f"description_{description}_textonly_file"
+                if sample.get(textonly_key):
+                    desc_key = textonly_key
+            desc_path = DATASET_ROOT / PureWindowsPath(sample[desc_key]).as_posix()
             question_text = f"{desc_path.read_text(encoding='utf-8')}\n\n{sample['question']}"
 
             start_time = time.time()
